@@ -1,0 +1,201 @@
+customer_id,customer_name,email,country,signup_date
+CUST_0001,Dawn Jones,ndelgado@example.org,Cote d'Ivoire,2024-12-30
+CUST_0002,Debra Taylor,kelleybriana@example.com,Uzbekistan,2025-03-30
+CUST_0003,Todd Burke,robertsutton@example.com,United States Virgin Islands,2025-10-07
+CUST_0004,Denise Anderson,frederickjones@example.org,Madagascar,2024-07-31
+CUST_0005,Adrian Garcia,houstonjessica@example.com,Cuba,2025-03-28
+CUST_0006,Kenneth Perry,andrewhamilton@example.org,Bouvet Island (Bouvetoya),2023-05-15
+CUST_0007,Anita Smith,alexander13@example.org,Romania,2025-07-09
+CUST_0008,Sabrina Valdez,brandonsnyder@example.net,American Samoa,2024-02-06
+CUST_0009,John Berger,jennifer92@example.net,Sierra Leone,2025-07-07
+CUST_0010,Ashley Sanchez,garciacarol@example.net,French Southern Territories,2024-12-03
+CUST_0011,Donald Johnson,linadam@example.org,Czech Republic,2025-03-29
+CUST_0012,David Gonzalez,alejandro58@example.net,Tuvalu,2024-12-12
+CUST_0013,Martha Sherman,raymondgomez@example.com,Rwanda,2024-03-22
+CUST_0014,Juan Fields,nathan63@example.org,Comoros,2025-01-09
+CUST_0015,Michael Crawford,barrywatkins@example.com,Syrian Arab Republic,2024-05-31
+CUST_0016,Amy Gould,jonesethan@example.com,Monaco,2025-03-06
+CUST_0017,Julie Mitchell,jason29@example.net,Spain,2026-03-28
+CUST_0018,Catherine Cross,jeff72@example.net,Bangladesh,2023-11-11
+CUST_0019,Erika Ramos,jameswalker@example.net,Congo,2024-05-02
+CUST_0020,Terri Blankenship,joshua64@example.net,Anguilla,2025-05-21
+CUST_0021,Amber Smith,samantharuiz@example.net,Brunei Darussalam,2025-10-18
+CUST_0022,Brandon Smith,kboyd@example.net,Bahamas,2025-11-03
+CUST_0023,Joshua Miller,nathan70@example.org,Jamaica,2025-01-11
+CUST_0024,Joshua Foster,joseph86@example.org,Guatemala,2026-02-15
+CUST_0025,Caitlin Shea,michael54@example.org,Barbados,2023-07-29
+CUST_0026,Maria Green,bethanyreed@example.org,United Kingdom,2023-08-16
+CUST_0027,Stacey Powell,mgregory@example.com,Congo,2025-10-05
+CUST_0028,David Griffin,leonard65@example.net,Norfolk Island,2025-05-25
+CUST_0029,Lynn Russell,bbaldwin@example.com,Malaysia,2024-03-01
+CUST_0030,James Taylor,qmitchell@example.com,Nepal,2024-01-11
+CUST_0031,Jeffrey Francis,kristyjohnson@example.net,Ukraine,2025-12-23
+CUST_0032,Shannon Andrews,carsonsamantha@example.com,United Arab Emirates,2026-01-10
+CUST_0033,Michael James,cameronphillips@example.org,Kuwait,2024-02-16
+CUST_0034,Kathleen Hunt,laurierobinson@example.com,Heard Island and McDonald Islands,2026-04-17
+CUST_0035,John Hutchinson,lindsay95@example.org,Dominica,2023-10-22
+CUST_0036,Erin Williams,jarvissteven@example.com,Myanmar,2023-07-24
+CUST_0037,Matthew Little,kimlisa@example.com,Barbados,2023-12-17
+CUST_0038,Mrs. Meredith Smith DDS,bjackson@example.net,Montenegro,2025-05-08
+CUST_0039,Evan Stewart,heatherbennett@example.net,Nauru,2024-06-29
+CUST_0040,Tammy Cardenas,shaun36@example.net,Taiwan,2023-05-04
+CUST_0041,Thomas Kelly,margaret76@example.org,Belarus,2025-07-12
+CUST_0042,Mark Evans,zachary79@example.org,Wallis and Futuna,2025-05-02
+CUST_0043,Steven Anderson,douglasblake@example.net,Jamaica,2026-03-16
+CUST_0044,John Carson,diane75@example.org,Philippines,2024-07-24
+CUST_0045,Abigail Cruz,wsweeney@example.net,Tokelau,2026-02-25
+CUST_0046,Jessica Banks,walkernatalie@example.org,Guyana,2024-05-23
+CUST_0047,Catherine Walker,khankimberly@example.org,Syrian Arab Republic,2023-06-17
+CUST_0048,Shannon Johnson,steelekevin@example.com,Norway,2026-04-23
+CUST_0049,Deborah Gay,ballardthomas@example.net,Iraq,2025-09-24
+CUST_0050,Richard Park,hollynichols@example.com,Samoa,2024-10-25
+CUST_0051,Brad Pope,richardsonvictoria@example.org,Egypt,2024-07-12
+CUST_0052,Jonathan Martin,trevor55@example.net,Moldova,2025-09-18
+CUST_0053,Stuart Williams,petersonbarry@example.com,South Georgia and the South Sandwich Islands,2026-04-08
+CUST_0054,Frank Myers,myersjacob@example.net,Pakistan,2024-10-17
+CUST_0055,Jeffery Prince,hunter94@example.org,Brunei Darussalam,2024-09-19
+CUST_0056,Glenn Martinez,melissa44@example.net,Tunisia,2023-11-24
+CUST_0057,Cynthia Kennedy,bfox@example.org,Malta,2025-02-12
+CUST_0058,Jeremy Miller,jennifercherry@example.net,Isle of Man,2025-02-12
+CUST_0059,Corey Daniels,swheeler@example.net,Switzerland,2023-12-10
+CUST_0060,Colleen Sweeney,robin84@example.com,Falkland Islands (Malvinas),2024-05-13
+CUST_0061,Raymond Johnson,vpham@example.org,Jordan,2024-11-15
+CUST_0062,Diane Perez,chadrussell@example.net,Gambia,2023-08-11
+CUST_0063,Nicole Stout,melinda03@example.net,Marshall Islands,2024-01-24
+CUST_0064,Justin Jones,fdouglas@example.net,Norfolk Island,2025-10-04
+CUST_0065,Corey Brown,christopherlynch@example.net,South Africa,2024-04-02
+CUST_0066,Tanya Garcia,matajessica@example.com,Netherlands,2025-12-09
+CUST_0067,Greg Parker,steven84@example.net,Bahrain,2023-05-13
+CUST_0068,William Martin,kennethcox@example.com,Nigeria,2023-06-01
+CUST_0069,Jennifer Wiggins,hillchristian@example.org,Dominica,2025-12-12
+CUST_0070,Stephen Swanson,john53@example.net,Poland,2024-08-24
+CUST_0071,Julian Marks,pmartinez@example.org,Belarus,2026-02-06
+CUST_0072,Joann Wolfe,owatson@example.com,Mauritius,2025-08-01
+CUST_0073,Leah Chapman,schultzcorey@example.net,Armenia,2024-02-27
+CUST_0074,Emily Sullivan,chernandez@example.net,Montserrat,2023-06-08
+CUST_0075,Karen Wright,brownjennifer@example.org,Saudi Arabia,2025-09-19
+CUST_0076,Sandra Johnson,andrew53@example.com,Solomon Islands,2025-11-08
+CUST_0077,Michelle Morgan,dcastillo@example.org,Chile,2025-12-06
+CUST_0078,Mark Holt,dalestevenson@example.net,Denmark,2025-06-12
+CUST_0079,Amber Mccann,awright@example.com,Solomon Islands,2025-04-02
+CUST_0080,Mallory Fox,brodriguez@example.org,Mayotte,2025-11-10
+CUST_0081,Clifford Richards,patriciaschmidt@example.org,Benin,2024-01-17
+CUST_0082,Melissa Turner,bowenphilip@example.com,Seychelles,2024-03-03
+CUST_0083,Anthony Martin,brian33@example.com,Hungary,2024-01-24
+CUST_0084,Joshua Jimenez,harperdawn@example.org,Congo,2025-08-20
+CUST_0085,Diane Hansen,brian47@example.com,Korea,2025-02-04
+CUST_0086,Sarah Sanders,jessicaorr@example.org,British Indian Ocean Territory (Chagos Archipelago),2023-08-19
+CUST_0087,Carrie Wilson,carriecastro@example.net,Cyprus,2025-11-26
+CUST_0088,James Ferguson,rebeccafuentes@example.net,Montenegro,2024-05-27
+CUST_0089,Daniel Moreno,zlucas@example.com,Greece,2026-03-11
+CUST_0090,Martin Watson,lorimolina@example.net,Croatia,2025-05-16
+CUST_0091,Erik Butler,jeremy84@example.net,Martinique,2025-12-24
+CUST_0092,Blake Johnson,michael75@example.net,Latvia,2024-06-14
+CUST_0093,Michael Jackson,clarkrobert@example.net,Saint Barthelemy,2025-05-31
+CUST_0094,Kathryn Patterson,pughrachel@example.org,Colombia,2023-11-13
+CUST_0095,Hannah Marshall,gillespieandrew@example.net,Uganda,2024-03-12
+CUST_0096,Dawn Burns,kimberly48@example.org,Holy See (Vatican City State),2025-02-09
+CUST_0097,Kathleen Blackwell,urodgers@example.com,Wallis and Futuna,2023-05-14
+CUST_0098,Megan Graham,robert81@example.org,Pakistan,2023-06-01
+CUST_0099,Jose Rodriguez,hendricksalicia@example.net,Japan,2025-04-15
+CUST_0100,Elizabeth Bush,matthewgregory@example.com,Maldives,2025-03-24
+CUST_0101,Danielle Young,roger13@example.org,Fiji,2023-11-21
+CUST_0102,Oscar Smith Jr.,chad75@example.org,Haiti,2024-01-13
+CUST_0103,Victoria Bell MD,garzatiffany@example.net,Bolivia,2023-12-29
+CUST_0104,Brian Hunter,russell01@example.net,Montserrat,2025-08-06
+CUST_0105,Deborah Johnson,brianpatterson@example.com,Italy,2024-09-14
+CUST_0106,Jonathan Mitchell,hnixon@example.org,Aruba,2023-07-26
+CUST_0107,Alex Farley,uwhite@example.com,Uganda,2026-01-14
+CUST_0108,Judy Perez,smartin@example.net,Gambia,2024-06-10
+CUST_0109,Mr. William Moore,mirandacaitlin@example.com,Zambia,2026-03-23
+CUST_0110,Jeffrey Mccormick,jamesmeyer@example.net,Nauru,2024-07-25
+CUST_0111,Timothy Moyer,albert81@example.net,Armenia,2025-02-09
+CUST_0112,Edward Grant,kwoodward@example.org,Cambodia,2023-12-14
+CUST_0113,Lindsay Miller,jonathan16@example.com,Western Sahara,2025-10-24
+CUST_0114,John Stone,xgreen@example.com,Faroe Islands,2025-05-31
+CUST_0115,Samantha Lee,jessica73@example.org,Guadeloupe,2025-06-01
+CUST_0116,Robert Lyons,juan50@example.com,Estonia,2025-07-10
+CUST_0117,Alan Thomas,salazarterry@example.com,Wallis and Futuna,2026-01-31
+CUST_0118,Jon Nelson,aanderson@example.com,Faroe Islands,2024-03-01
+CUST_0119,Mr. James Nelson,thompsonbruce@example.net,Paraguay,2024-08-31
+CUST_0120,Andrew Jones,pgonzalez@example.net,Cambodia,2024-10-10
+CUST_0121,Theresa Barron,carrchristopher@example.com,Lithuania,2024-04-18
+CUST_0122,Andrew Thompson,colondarryl@example.org,Papua New Guinea,2025-11-20
+CUST_0123,Taylor Gibbs,michele64@example.com,Kenya,2025-09-25
+CUST_0124,Cindy Brown,kevin85@example.net,Kuwait,2023-09-20
+CUST_0125,Taylor Cox,hbooker@example.org,Belize,2025-08-11
+CUST_0126,Jamie Carr,emilytaylor@example.org,Israel,2023-08-07
+CUST_0127,Sara Gibson,drew77@example.net,Hungary,2024-02-03
+CUST_0128,Patrick Leonard,kjohnson@example.org,Suriname,2025-09-01
+CUST_0129,Victor Alvarez,jeffrey59@example.org,Macao,2024-09-25
+CUST_0130,Paige Spence,brownkelly@example.net,Bermuda,2024-11-02
+CUST_0131,Terry Miller,fieldspatrick@example.net,Lesotho,2024-07-27
+CUST_0132,Kevin Marshall,maryblake@example.net,Falkland Islands (Malvinas),2025-05-16
+CUST_0133,Michelle Watson,breannajohnson@example.org,Solomon Islands,2025-12-29
+CUST_0134,Rose Browning,qhoover@example.net,Guadeloupe,2026-01-31
+CUST_0135,Joshua Baker,roberthuber@example.org,Bahamas,2025-09-21
+CUST_0136,John Beck,fdaniel@example.org,Tuvalu,2024-10-11
+CUST_0137,Wendy Osborne,judith66@example.com,Togo,2023-12-08
+CUST_0138,Jill Weber,sergio94@example.com,Singapore,2023-06-06
+CUST_0139,Karen Jennings,obridges@example.net,Croatia,2025-08-02
+CUST_0140,Ryan Hale,buckmeredith@example.org,Jordan,2025-07-30
+CUST_0141,Dr. Christy Flores DVM,molly05@example.com,Niger,2025-11-28
+CUST_0142,Jordan Taylor,ocain@example.com,Finland,2023-12-29
+CUST_0143,Mr. Brian Wilson,ebrooks@example.com,Singapore,2025-02-12
+CUST_0144,Terri Mitchell,kyle69@example.com,Madagascar,2026-03-14
+CUST_0145,Michael Hooper,seth82@example.org,Czech Republic,2024-12-16
+CUST_0146,Dr. Brian Graham,ksmith@example.org,Benin,2023-07-30
+CUST_0147,Audrey Carson,thomaswagner@example.net,Solomon Islands,2023-06-16
+CUST_0148,Stephen Allen,sean85@example.net,Cocos (Keeling) Islands,2024-06-16
+CUST_0149,Gina Parsons,perkinscody@example.com,Taiwan,2025-05-10
+CUST_0150,Chad Clark,valexander@example.net,Cook Islands,2025-08-13
+CUST_0151,Katherine Lawson,reneeray@example.org,Marshall Islands,2025-08-09
+CUST_0152,Kari Ward,sandra43@example.net,Western Sahara,2026-04-28
+CUST_0153,Erica Krause,leemark@example.com,Norway,2025-07-31
+CUST_0154,Mr. Nicholas Keller,heather88@example.net,Sweden,2025-06-12
+CUST_0155,Stephanie Thomas,catherine16@example.org,Mauritius,2023-12-03
+CUST_0156,Katrina Fisher,odavis@example.com,Taiwan,2026-04-03
+CUST_0157,Angela Whitney,emartinez@example.org,Mexico,2024-12-21
+CUST_0158,Elizabeth Joyce,millscarrie@example.net,Honduras,2024-04-08
+CUST_0159,Joseph Moore,eddiekirk@example.org,Panama,2024-11-25
+CUST_0160,Benjamin Stanley,sierrajones@example.net,Turkmenistan,2024-05-07
+CUST_0161,Jennifer Ward,cantrellanna@example.org,Puerto Rico,2023-10-14
+CUST_0162,Christopher Robertson,sarahcrosby@example.com,Colombia,2025-06-23
+CUST_0163,Justin Anderson,vanessa75@example.org,Azerbaijan,2025-08-13
+CUST_0164,Jonathan Andrews,lhopkins@example.com,Fiji,2024-09-12
+CUST_0165,Kelsey Ramirez,norman87@example.com,Tuvalu,2025-01-16
+CUST_0166,Sheila White,william97@example.com,Estonia,2024-03-18
+CUST_0167,Derek Calhoun,fsharp@example.org,Chad,2025-01-15
+CUST_0168,Morgan Hart,dthomas@example.net,Belgium,2023-06-04
+CUST_0169,Joseph Howard,charles31@example.org,Dominica,2024-12-28
+CUST_0170,Erika Torres,lisa91@example.org,Nepal,2024-11-12
+CUST_0171,Brittany Valdez,bryankatie@example.net,Svalbard & Jan Mayen Islands,2023-12-12
+CUST_0172,Jason Hanson,lisa35@example.net,Maldives,2024-07-08
+CUST_0173,Andrea Ellis,harold28@example.net,Saint Vincent and the Grenadines,2024-10-06
+CUST_0174,Brian Trujillo,stacy32@example.net,Uruguay,2024-08-28
+CUST_0175,Todd Davidson,heathermayo@example.com,Timor-Leste,2026-02-15
+CUST_0176,Jordan Shea,martinjeffrey@example.net,Macao,2024-01-13
+CUST_0177,James Raymond,brianfisher@example.net,Finland,2025-01-11
+CUST_0178,Dylan Nelson,fwhite@example.org,United States of America,2024-12-23
+CUST_0179,David Jordan,monicamorris@example.com,Niger,2025-06-03
+CUST_0180,Robert Yates,travisanderson@example.org,Trinidad and Tobago,2025-05-05
+CUST_0181,Dr. Barry Miller,michael56@example.org,French Guiana,2025-07-30
+CUST_0182,Isaiah Merritt,wattsbrittany@example.net,Bosnia and Herzegovina,2025-10-02
+CUST_0183,Dylan Maldonado,gdaniels@example.org,Mayotte,2024-10-14
+CUST_0184,Marco Snow,xtate@example.org,Niger,2025-06-30
+CUST_0185,Julia Elliott,thomas04@example.com,Pitcairn Islands,2025-02-15
+CUST_0186,Justin Miller,smithmegan@example.com,Spain,2023-09-19
+CUST_0187,Thomas Austin,mmorgan@example.com,Bhutan,2026-04-19
+CUST_0188,Amanda Miller,wmorris@example.org,Tunisia,2023-07-27
+CUST_0189,Theresa Vance,cprice@example.org,Australia,2024-07-15
+CUST_0190,Nicholas Gutierrez,brooksmelvin@example.net,Falkland Islands (Malvinas),2025-06-15
+CUST_0191,Michelle Byrd,tcampbell@example.org,Philippines,2023-08-30
+CUST_0192,Jennifer Eaton,jamesbowen@example.com,Hungary,2025-12-13
+CUST_0193,Sandra Johnson,ambersmith@example.org,Cook Islands,2026-02-19
+CUST_0194,Damon Vasquez,wilsoncheryl@example.net,Kuwait,2023-12-24
+CUST_0195,Alex Powell,jlewis@example.com,Syrian Arab Republic,2025-03-28
+CUST_0196,John Collins,christine87@example.org,Bolivia,2026-03-08
+CUST_0197,Darlene Phillips,stephenbarnes@example.com,Czech Republic,2023-08-09
+CUST_0198,Robert Hodge,andrecunningham@example.net,Bolivia,2024-01-05
+CUST_0199,Luke Anderson,michael88@example.net,United Arab Emirates,2025-03-19
+CUST_0200,Melissa Levine,rross@example.net,China,2024-03-16
